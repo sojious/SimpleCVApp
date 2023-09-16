@@ -1,2 +1,2 @@
 # SimpleProfile
-An app that display a simple profile page 
+An app that display user CV information with the ability to edit the information
