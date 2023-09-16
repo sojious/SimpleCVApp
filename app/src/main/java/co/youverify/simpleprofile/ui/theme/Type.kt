@@ -13,6 +13,8 @@ val sPProTextFont= FontFamily(Font(R.font.sf_pro_text_regular, weight = FontWeig
 
 
 val sPProRoundedFont= FontFamily(Font(R.font.sf_pro_rounded_regular, weight = FontWeight.Normal),)
+val sofiaFont= FontFamily(Font(R.font.sofia_pro_regular, weight = FontWeight.Normal),)
+val nevradaFont= FontFamily(Font(R.font.nevrada_regular, weight = FontWeight.Normal),)
 // Set of Material typography styles to start with
 val Typography = Typography(
     bodyLarge = TextStyle(
